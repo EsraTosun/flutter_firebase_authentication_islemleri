@@ -39,7 +39,7 @@ class MyHomePage extends StatefulWidget {
 
 class _MyHomePageState extends State<MyHomePage> {
   late FirebaseAuth auth;
-  final String _email = 'emrealtunbilek06@gmail.com';
+  final String _email = 'esratosun171@gmail.com';
   final String _password = 'password';
 
   @override
